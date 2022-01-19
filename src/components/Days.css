@@ -1,0 +1,29 @@
+.Days{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+}
+.YButton{
+    background-color: #f1d140;
+    border-radius: 20px;
+    border: none;
+    width: 140px;
+    font-size: large;
+    cursor: pointer;
+    font-weight: bold;
+}
+.GButton{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    border: none;
+    width: 140px;
+    font-size: large;
+    cursor: pointer;
+}
+.Buttons{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    height: 50px;
+    border-radius: 20px;
+}

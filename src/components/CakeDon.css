@@ -1,0 +1,6 @@
+.CakeDon{
+    display: flex;
+    justify-content: flex-end;
+    color: grey;
+    font-weight: bolder;
+}

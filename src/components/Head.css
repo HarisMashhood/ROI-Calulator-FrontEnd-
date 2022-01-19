@@ -1,0 +1,10 @@
+.header1{
+    display: flex;
+    margin-left: 13px;
+    justify-content: space-between;
+}
+.CloseIcon{
+    transform: scale(1.2);
+    margin: 15px;
+    cursor: pointer;
+}

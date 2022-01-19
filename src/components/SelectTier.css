@@ -1,0 +1,11 @@
+.SelectTier{
+    color: grey;
+    font-weight: bolder;
+}
+.h4Select{
+    margin-left: 20px;
+}
+.roiCurrentRates{
+    display: flex;
+    justify-content: flex-end;
+}

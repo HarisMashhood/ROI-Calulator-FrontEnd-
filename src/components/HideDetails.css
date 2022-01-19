@@ -1,0 +1,8 @@
+.HideDetails{
+    display: flex;
+    justify-content: center;
+}
+.ExpandLessIcon{
+    margin-top: 20px;
+    cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.Apy{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+.Icon{
+    margin-top: 20px;
+    margin-right: 30px;
+    color: #f0c14b;
+    transform: scale(1.8);
+ }
